@@ -1,1 +1,3 @@
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() { 
+    int a = 4;
+}
