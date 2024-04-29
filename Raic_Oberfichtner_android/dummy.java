@@ -3,6 +3,7 @@ public void thisIsANewMethod() {
     int x = 4;
 	int y = 2;
 	int z = 3;
+	int z2 = 5;
 }
 
 
