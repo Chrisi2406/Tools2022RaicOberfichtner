@@ -5,6 +5,9 @@ public void thisIsANewMethod() {
 	if (x != y){
 		y = x;
 	}
+	else{
+		System.out.println("Keine Bugs vorhanden!!!!");
+	}
 }
 
 
