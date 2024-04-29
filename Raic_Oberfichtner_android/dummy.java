@@ -1,1 +1,5 @@
-public void thisIsANewMethod() { }
+public void thisIsANewMethod() {
+	System.out.println("Hallo, Welt!");
+}
+
+
